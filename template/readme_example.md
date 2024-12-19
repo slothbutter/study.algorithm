@@ -116,7 +116,7 @@ for i in range(input_n):
 
 개같이 멸망…
 
-![Untitled](https://github.com/user-attachments/assets/82d29288-67b3-441d-aed5-d142dfcaa4ea)
+![Untitled](https://github.com/user-attachments/assets/f52eaa41-9514-4921-9119-46d19253e352)
 
 10% 까지 검사하다가 바로 틀렸다고 나오는 걸로 봐서는 첫 번째 또는 두 번째 테스트 케이스에서 틀린 것 같다.
 
@@ -219,7 +219,7 @@ for l in M:
 https://chancoding.tistory.com/44
 
 ## 회고
-![Untitled2](https://github.com/user-attachments/assets/ea1686a7-5f49-486c-9061-eccd846f7246)
+![Untitled2](https://github.com/user-attachments/assets/ff8c7fe7-58d9-4a3e-8488-1005b8f55ad9)
 
 수많은… 뻘짓의 노력들…
 
