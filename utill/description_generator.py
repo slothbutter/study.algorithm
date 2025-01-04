@@ -33,10 +33,9 @@ class ProgrammersParsor:
         return category, title
     
     def find_level_and_idx(self):
-        metadata = self.soup.find("div", "challengeable-banner-wrapper")
-        data_hackle_view = metadata["data-hackle-view"]
-        level = data_hackle_view.split('"challenge_level":')[1].split(",")[0]
-        idx = data_hackle_view.split('"lesson_id":')[1].split(",")[0]
+        metadata = self.soup.find("div", "lesson-content")
+        level = metadata["data-challenge-level"]
+        idx = metadata["data-lesson-id"]
         return f"Lv. {level}", idx
     
     def find_description(self):
@@ -86,12 +85,9 @@ class ProgrammersParsor:
 
   (정답코드의 정답 이유)
 
-  > [!NOTE]
-  > **제목**(관련 링크)<br>
+  >💡 **제목** (참고 링크)<br>
   > <br>
-  >관련 지식에 대한 간단 정리
-
-  ## 다른 사람 풀이
+  > (내용)
 
 
   ### 코드
