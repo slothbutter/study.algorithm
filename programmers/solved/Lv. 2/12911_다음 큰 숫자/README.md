@@ -1,5 +1,5 @@
 
-# [✔️/❌][Lv. 2] [12911. 다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911?language=python3)
+# ✔️[Lv. 2] [12911. 다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911?language=python3)
 
 
 문제 설명
